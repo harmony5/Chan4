@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277761957878",
+    "firebase_url": "https://chan4-ab7bf.firebaseio.com",
+    "project_id": "chan4-ab7bf",
+    "storage_bucket": "chan4-ab7bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277761957878:android:ec4d2365ebaae129",
+        "android_client_info": {
+          "package_name": "com.example.jean.chan4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277761957878-r3ev1738at6uhlkq24p0o51vh2ir56u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xBUjU-y2lFFYP9XUiW4pzcLHbv1Wv4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
